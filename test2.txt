@@ -2,3 +2,6 @@ a test
 I typed here using text editor (wordPad)
 07.05.2024
 Tue. 18:35
+--------------
+I just remvoed the Conflict-Marks
+Tue. 19:24
